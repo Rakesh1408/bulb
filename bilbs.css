@@ -1,0 +1,18 @@
+img{
+    height: 350px;
+    width: 250px;
+    margin-left: 585px;
+    margin-top: 50px;
+}
+input[type="submit"]{
+    height: 50px;
+    width: 100px;
+    background: black;
+    color: white;
+}
+div{
+    margin-left: 610px;
+}
+*{
+    background-image: linear-gradient(to right, rgb(90, 88, 88) , rgb(161, 161, 158));
+}
